@@ -1,7 +1,4 @@
-"""Raspberry Pi Face Recognition Treasure Box
-Treasure Box Class
-Copyright 2013 Tony DiCola 
-"""
+
 import time
 
 import cv2
