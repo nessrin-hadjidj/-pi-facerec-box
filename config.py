@@ -1,5 +1,4 @@
-# Raspberry Pi Face Recognition Treasure Box Configuration
-# Copyright 2013 Tony DiCola 
+
 
 # Edit the values below to configure the training and usage of the
 # face recognition box.
