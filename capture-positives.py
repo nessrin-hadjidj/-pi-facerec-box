@@ -1,7 +1,4 @@
-"""Raspberry Pi Face Recognition Treasure Box
-Positive Image Capture Script
-Copyright 2013 Tony DiCola 
-Run this script to capture positive images for training the face recognizer.
+
 """
 import glob
 import os
